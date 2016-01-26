@@ -5,3 +5,5 @@ b) Modeling the classes better.
 c) Writing unit tests.
 d) Enabling logging (optional).
 e) Adding Replace/Replace-All functionality.
+
+https://travis-ci.org/asgs/Editpad.svg?branch=master
