@@ -6,4 +6,4 @@ c) Writing unit tests.
 d) Enabling logging (optional).
 e) Adding Replace/Replace-All functionality.
 
-https://travis-ci.org/asgs/Editpad.svg?branch=master
+[![Build Status](https://travis-ci.org/asgs/Editpad.svg?branch=master)](https://travis-ci.org/asgs/Editpad)
